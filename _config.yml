@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Martin Cole"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Martin Cole"
 description              : &description "Statistics PhD Student"
