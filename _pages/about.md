@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Martin Cole is a third-year statistics PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester, where he is currently researching statistical methods for the analysis of the human connectome. He holds a M.A. in Statistics and a BEng (Hons) Engineering degree (general engineering with a focus in Fluid Mechanics) at the Open University, England. His research interests include the development of statistical and computational methods to study high-dimensional data, Bayesian network analysis for the modelling of brain connectivity, and robust machine learning techniques for use alongside traditional statistical tools. 
+Martin Cole is a third-year statistics PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester, where he is currently researching statistical methods for the analysis of the human connectome. He holds a M.A. in Statistics and a BEng (Hons) Engineering degree (with a focus in Fluid Mechanics) at the Open University, England. His research interests include the development of statistical and computational methods to study high-dimensional data, Bayesian network analysis for the modelling of brain connectivity, and robust machine learning techniques for use alongside traditional statistical tools. 
 
 Current Research Projects
 ======
