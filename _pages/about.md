@@ -18,11 +18,22 @@ Many interesting things to do with statistics and stuff
 Publications
 ======
 
-M. Cole, K. Murray, E. St-Onge, B. Risk, J. Zhong, G. Schifitto, M. Descoteaux, Z. Zhang. [2021]. Surface-Based Connectivity Integration: An Atlas-Free Approach to Jointly Study Functional and Structural Connectivity. Human Brain Mapping. [in press].
+Consagra, W., **Cole, M.** and Zhang, Z., 2022. Analyzing Brain Structural Connectivity as Continuous Random Functions. arXiv preprint arXiv:2206.11191.
 
-L. Wang, F. Lin, M. Cole, Z. Zhang. [2021]. Learning Clique Subgraphs in Structural Brain Network Classification with Application to Crystallized Cognition. NeuroImage. 225, 117493.
+Chen, Q., Turnbull, A., **Cole, M.**, Zhang, Z. and Lin, F.V., 2022. Enhancing cortical network-level participation coefficient as a potential mechanism for transfer in cognitive training in aMCI. NeuroImage, 254, p.119124.
+
+**Cole, M.**, Murray, K., St‐Onge, E., Risk, B., Zhong, J., Schifitto, G., Descoteaux, M. and Zhang, Z., 2021. Surface‐Based Connectivity Integration: An atlas‐free approach to jointly study functional and structural connectivity. Human Brain Mapping, 42(11), pp.3481-3499.
+
+Wang, L., Lin, F.V., **Cole, M.** and Zhang, Z., 2021. Learning clique subgraphs in structural brain network classification with application to crystallized cognition. Neuroimage, 225, p.117493.
 
 Poster Presentations
 ======
 
-*Insert SBCI at HBM*
+OHBM 2020 - *Cole, M.*, Murray, K., St-Onge, E., Descoteaux, M., Zhong, J., Schifitto, G. and Zhang, Z., A Parcellation-Free Framework for Structural and Functional Connectivity Integration.
+
+
+Awards
+======
+
+1st Place, UP-STAT Data Competition "Bioacoustic Analysis of a Madagascar Rainforest": Issued by UP-STAT 2019 Conference Apr 2019
+
